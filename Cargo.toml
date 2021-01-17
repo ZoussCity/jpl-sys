@@ -1,9 +1,10 @@
 [package]
 name = "jpl-sys"
-version = "0.0.1"
+version = "0.0.2"
 authors = ["AlexApps99"]
 edition = "2018"
 description = "Project Pluto JPL Ephemeris Rust bindings"
+repository = "https://github.com/ZoussCity/jpl-sys"
 license-file = "LICENSE.txt"
 keywords = ["astronomy", "jpl", "ephemeris", "de", "space"]
 categories = ["external-ffi-bindings", "mathematics", "science", "simulation"]
